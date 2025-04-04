@@ -1,2 +1,18 @@
 
 /* Your CSS Code here. */
+/* Styling for main container */
+.accio {
+    width: 150px;
+    height: 150px;
+    background-color: #000000; /* Black background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/* Styling for paragraph */
+.hello-accio {
+    color: #ffffff; /* White text */
+    margin-left: 32px;
+    padding: 10px;
+}
